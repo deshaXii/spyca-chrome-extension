@@ -1,63 +1,63 @@
 # spyca-chrome-extension
 Speak to do -> Enables you to do something based on a specific voice command
 
-### install it on your chrome 
+### Install it on your chrome 
 
-###### step one
+###### Step one
 
 ![alt first step](https://i.ibb.co/p1kNv9q/image.png)
 
-###### step two
+###### Step two
 
 ![alt second step](https://i.ibb.co/vvnYCkY/image-1.png)
 
-###### step three
+###### Step three
 
-and choose extension folder 
+Choose extension folder 
 open new tab and injoy :)
 
 
 ### Our Command
-- open
-- search Or google
-- Back And Forward And Refresh Or Reload
+- Open
+- Search or google
+- Back, forward and refresh or reload
 - Search in youtube
-- Play music OR Change music
+- Play music or Change music
 - Translate
 
 
-### using commands
+### Using commands
 
 ###### [open] command
-  `just say open and the linkTxt you will register it down`
+  `Just say open and the linkTxt you will register it down`
 
 ###### [search] Or google commands
-  `just say search or google before that thing you want search`
+  `Just say search or google before that thing you want search`
 
 ###### [back] commands
-  `go to previous page`
+  `Go to previous page`
 
 ###### [forward] commands
-  `go to forward page`
+  `Go to forward page`
   
 ###### [refresh] or [reload] commands
-  `reload current page`
+  `Reload current page`
 
 ###### [search in youtube] command
-  `just say in the end in youtube and it will take`
+  `Just say in the end in youtube and it will take`
   
 ###### [play music] or [change music] commands
-  `just say [play music] to play random video or [change music] to change it `
+  `Just say [play music] to play random video or [change music] to change it `
   
   
 ###### [translate] command
-  `just say translate before that words you want translate`
+  `Just say translate before that words you want translate`
   
   
   
 ### Add your Links
 
-in line 44 you will find myLinks array
+In line 44 you will find myLinks array
 insert your links inside it
 
 ```
