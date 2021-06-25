@@ -29,29 +29,29 @@ open new tab and injoy :)
 ### Using commands
 
 ###### [open] command
-  `Just say open and the linkTxt you will register it down`
+  > Just say open and the linkTxt you will register it down
 
 ###### [search] Or google commands
-  `Just say search or google before that thing you want search`
+  > Just say search or google before that thing you want search
 
 ###### [back] commands
-  `Go to previous page`
+  > Go to previous page
 
 ###### [forward] commands
-  `Go to forward page`
+  > Go to forward page
   
 ###### [refresh] or [reload] commands
-  `Reload current page`
+  > Reload current page
 
 ###### [search in youtube] command
-  `Just say in the end in youtube and it will take`
+  > Just say in the end in youtube and it will take
   
 ###### [play music] or [change music] commands
-  `Just say [play music] to play random video or [change music] to change it `
+  > Just say [play music] to play random video or [change music] to change it 
   
   
 ###### [translate] command
-  `Just say translate before that words you want translate`
+  > Just say translate before that words you want translate
   
   
   
